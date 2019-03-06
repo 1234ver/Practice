@@ -12,7 +12,7 @@ I have also uploaded several new files, which I plan to use in the future for my
 
 The "Practice" folder also contains several .pdf files which I plan to use for my future project.
 
-**Potential Project and Research Questions"
+**Potential Project and Research Questions**
 
 My research project will examine the impact of the Trump administration's asylum metering policy on organized crime along the US-Mexico border. Prior to 2017, migrants fleeing their home countries could approach US ports of entry from Mexico (i.e., bridges) to ask for asylum. The administration's new metering policy forces asylum-seekers to wait in Mexico for a period of several weeks or months before they can even approach US ports of entry to ask for asylum. It is well established that this metering policy has caused the number of unauthorized border crossings -- in other words, crossings between ports of entry -- to rise. Typically, migrants crossing pay organized criminal groups to help them cross between ports of entry. 
 
