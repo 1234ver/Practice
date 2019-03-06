@@ -6,7 +6,9 @@ In order to get the merge output from my THA1, first go to the "Practice" folder
 
 **Additional Github files**
 
-In addition to "Copy_of_THA1_data_merge.ipynb", I have uploaded the files "2017apps_dataset3.xlsx", "2017inadm_dataset2.xlsx", and "Field office overview_dataset1.xlsx" I have also uploaded several new files, which I plan to use in the future for my project. These files contain survey information from the Colegio de la Frontera Norte (COLEF) for the years 2013-2017. They are called "2017colef.xlsx", "2016colef.xlsx", and so on until 2013. 
+In addition to "Copy_of_THA1_data_merge.ipynb", I have uploaded the files that I merged in THA1, "2017apps_dataset3.xlsx", "2017inadm_dataset2.xlsx", and "Field office overview_dataset1.xlsx".  
+
+I have also uploaded several new files, which I plan to use in the future for my project. These files contain survey information from the Colegio de la Frontera Norte (COLEF) for the years 2013-2017. They are called "2017colef.xlsx", "2016colef.xlsx", and so on until 2013. 
 
 The "Practice" folder also contains several .pdf files which I also plan to use for my future project.
  
