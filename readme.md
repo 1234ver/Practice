@@ -2,7 +2,7 @@
 ### Running a python module to get the merged dataframe output 
 **Merge Output**
 
-In order to get the merge output from my THA1, first go to the "Practice" folder on my Github page. Once within the practice folder, click on the file "Copy_of_THA1_data_merge.ipynb". From there, click on the "Open in Colab" button at the top of the page. Once the file is open in Colab, you can click "Run all" to merge my three datasets, "2017apps_dataset3.xlsx", "2017inadm_dataset2.xlsx", and "Field office overview_dataset1.xlsx". You will find a lengthier description of the information that these datasets contain within the Colab file. 
+To get the merge output from my THA1, first go to the "Practice" folder on my Github page. Once within the practice folder, click on the file "Copy_of_THA1_data_merge.ipynb". From there, click on the "Open in Colab" button at the top of the page. Once the file is open in Colab, you can click "Run all" to merge my three datasets, "2017apps_dataset3.xlsx", "2017inadm_dataset2.xlsx", and "Field office overview_dataset1.xlsx". You will find a lengthier description of the information that these datasets contain within the Colab file. 
 
 **Additional Github files**
 
